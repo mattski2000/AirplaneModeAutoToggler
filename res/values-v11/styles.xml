@@ -8,7 +8,7 @@
         <!-- API 11 theme customizations can go here. -->
     </style>
 
-    <style name="AboutAlertDialogTheme" parent="android:Theme.Holo">
+    <style name="DarkDialogTheme" parent="android:Theme.Holo">
         
     </style>
     

@@ -67,7 +67,6 @@ public final class R {
         public static final int zero=0x7f060005;
     }
     public static final class style {
-        public static final int AboutAlertDialogTheme=0x7f070003;
         /** 
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
@@ -93,6 +92,7 @@ public final class R {
         /**  Application theme. 
          */
         public static final int AppTheme=0x7f070001;
+        public static final int DarkDialogTheme=0x7f070003;
         public static final int TableRowTheme=0x7f070002;
     }
 }

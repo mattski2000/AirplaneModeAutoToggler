@@ -24,7 +24,7 @@
       <item name="android:layout_margin">15dp</item>
     </style>
     
-    <style name="AboutAlertDialogTheme">
+    <style name="DarkDialogTheme">
         <item name="android:background">@color/dark_grey</item>
     </style>
     
